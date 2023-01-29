@@ -1,0 +1,17 @@
+
+
+#EDA#Exploratory_data_analysis#numpy#pandas#visualization#matplotlib#seaborn#datascience#dataanalytics
+#Github#kaggle#data#python#Uber#Uberdriver#Practice
+
+Uber data analysis : In this i have perform Exploratory data analysis on uber data set. 
+To find out the most common questions from it
+
+Q.1) What is the most popular starting point for uber driver?
+Q.2) What is the most popular dropping point for uber driver?
+Q.3) List the most frequent route taken by uber driver?
+Q.4) Print all the types of purposes for the trip in the array?
+Q.5) Plot a bar graph of purposes vs distance?
+Q.6) Plot number of trips vs category of trips
+Q.7) What is the proportion of trips for business and the praportion of trips for personal?
+
+
